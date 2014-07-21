@@ -5,4 +5,4 @@ Aflred workflows
 
 ## FarBox
 
-* [FarBox](www.farbox.com) blogging supports
+* [FarBox](//www.farbox.com) blogging supports
